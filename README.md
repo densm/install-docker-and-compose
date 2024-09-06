@@ -16,6 +16,7 @@ Clone the repository from GitHub:
 ```bash
 git clone https://github.com/densm/install-docker-and-compose.git
 cd install-docker-and-compose
+```
 
 ### Step 2: Make the Script Executable
 
@@ -23,6 +24,7 @@ Make the script executable:
 
 ```bash
 chmod +x install-docker-and-compose.sh
+```
 
 ### Step 3: Run the Script
 
@@ -30,6 +32,7 @@ Execute the script:
 
 ```bash
 ./install-docker-and-compose.sh
+```
 
 ### Step 4: Apply Group Changes
 
